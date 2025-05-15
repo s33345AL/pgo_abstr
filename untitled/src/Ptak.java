@@ -23,4 +23,8 @@ public class Ptak extends Zwierze{
     public void poruszajSkrzydłami(){
         System.out.println("Ptak rusza skrzydłami");
     }
+
+    public String getKolor() {
+        return kolor;
+    }
 }

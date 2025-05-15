@@ -24,4 +24,8 @@ public class Gad extends Zwierze{
     public void wyjdzNaPolowanie(){
         System.out.println("Gad wyszedł na polowanie");
     }
+
+    public double getDlugoscWCm() {
+        return dlugoscWCm;
+    }
 }

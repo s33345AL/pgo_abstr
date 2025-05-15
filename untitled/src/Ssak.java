@@ -29,4 +29,7 @@ public class Ssak extends Zwierze{
         }
     }
 
+    public double getWaga() {
+        return waga;
+    }
 }

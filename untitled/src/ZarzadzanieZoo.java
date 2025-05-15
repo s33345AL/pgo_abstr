@@ -12,5 +12,7 @@ public class ZarzadzanieZoo {
         System.out.println(p1.srodowiskoNaturalne());
         System.out.println(s1.srodowiskoNaturalne());
 
+        System.out.println(s1.getNazwa());
+
     }
 }
